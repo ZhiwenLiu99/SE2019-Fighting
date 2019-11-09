@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 844d61c3ef3fece4b9adb9292bbc3212
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SomePlants_0
+    21300002: SomePlants_1
+    21300004: SomePlants_2
+    21300006: SomePlants_3
+    21300008: SomePlants_4
+    21300010: SomePlants_5
+    21300012: SomePlants_6
+    21300014: SomePlants_7
+    21300016: SomePlants_8
+    21300018: SomePlants_9
+    21300020: SomePlants_10
+    21300022: SomePlants_11
+    21300024: SomePlants_12
+    21300026: SomePlants_13
+    21300028: SomePlants_14
+    21300030: SomePlants_15
+    21300032: SomePlants_16
+    21300034: SomePlants_17
+    21300036: SomePlants_18
+    21300038: SomePlants_19
+    21300040: SomePlants_20
+    21300042: SomePlants_21
+    21300044: SomePlants_22
+    21300046: SomePlants_23
+    21300048: SomePlants_24
+    21300050: SomePlants_25
+    21300052: SomePlants_26
+    21300054: SomePlants_27
+    21300056: SomePlants_28
+    21300058: SomePlants_29
+    21300060: SomePlants_30
+    21300062: SomePlants_31
+    21300064: SomePlants_32
+    21300066: SomePlants_33
+    21300068: SomePlants_34
+    21300070: SomePlants_35
+    21300072: SomePlants_36
+    21300074: SomePlants_37
+    21300076: SomePlants_38
+    21300078: SomePlants_39
+    21300080: SomePlants_40
+    21300082: SomePlants_41
+    21300084: SomePlants_42
+    21300086: SomePlants_43
+    21300088: SomePlants_44
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SomePlants_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 488
+        height: 443
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b1bdf79d337b40a79543db82d40fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SomePlants_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 488
+        height: 443
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f36b7ab5dd951439c25476d623c513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SomePlants_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 488
+        height: 443
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cacda58461deb443bbeaa29e69766bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SomePlants_3
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 0
+        width: 249
+        height: 311
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e867f4f135404ca722b6da51fc4e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f76452da0e3c08f4aacfad7b35412c7b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
